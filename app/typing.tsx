@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 
 const TEXT = [
   "Hi! My name is Rochelle Holland.",
-  "I'm a junior at the University of Colorado majoring in Computer Science.",
+  "I'm a senior at the University of Colorado majoring in Computer Science.",
   "I also design flyers for local businesses. This site is my portfolio and the place to request one.",
 ].join("\n\n");
 
